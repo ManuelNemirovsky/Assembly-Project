@@ -1,0 +1,22 @@
+monster1
+x - 68
+y - 69
+monster2
+x - 88
+y - 111
+monster3
+x - 100
+y - 98
+gold
+x - 75
+y - 110
+robin
+x - 75
+y - 110
+arrow
+x - 62
+y - 20
+rock
+x - 25
+y - 20
+
